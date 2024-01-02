@@ -1,0 +1,12 @@
+.editor-root {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-height: 200px;
+  padding: 8px;
+  resize: both;
+  overflow: auto;
+}
+
+.editor-root > * {
+  margin: 0 0 8px 0;
+}
